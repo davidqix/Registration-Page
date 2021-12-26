@@ -1,2 +1,3 @@
 # Registration-Page
-![sing](https://user-images.githubusercontent.com/25938167/146661252-91b2d9c9-abc7-427c-bc7a-5d71b732fd19.jpg)
+![1](https://user-images.githubusercontent.com/25938167/147419772-9e9a73e8-5eaa-404f-8aa9-1cb982f0815a.gif)
+
